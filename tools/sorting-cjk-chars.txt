@@ -1,0 +1,20 @@
+ChatGPG:
+
+Python’s sorted() function, when applied to strings or lists of strings 
+(which include Chinese characters), sorts them according to their Unicode
+code points.
+
+Collation Order:
+
+* Unicode Code Point Order: The collation order used by default is based on 
+Unicode code points. This means the characters are sorted numerically by 
+their code points, which may not align with any culturally intuitive or 
+language-specific order.
+
+* Locale Settings: While your locale is set to en_NZ.UTF-8, this setting does not affect the default behavior of sorted(). The sorting will still be based on Unicode code points unless you explicitly use a locale-aware sorting function.
+
+* If you need to sort Chinese characters according to a specific collation 
+order (like Pinyin order or radical-stroke order), you would need to use 
+additional libraries such as PyICU or implement a custom sorting function.
+
+

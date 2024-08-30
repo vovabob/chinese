@@ -1,0 +1,5 @@
+Search For: (.)
+Replace With: \1\n
+------------------
+1. Each pair of parens is a "capturing group"
+2. \1 is a "back reference" to that group.
