@@ -1,0 +1,35 @@
+买东西
+你还需要别的东西吗？
+毛笔！．．．你们有毛笔吗？
+有！当然有！．．．你要哪种？
+我随便买几枝就行了！回国以后送给朋友！
+好！买三枝吧！
+再来几枝！
+好的！．．．还要别的吗？
+小人书！有没有小人书？
+有！你看！这是孙悟空的故事！真有意思！
+好！买两本儿！
+你不要买点儿衣料吗？
+不！衣料，还是在上海买吧！
+啊！对了！买点儿清凉油！
+清凉油是什么？
+一种药！治头痛的！非常有效！
+好吧！就这样！再买点儿清凉油就走！
+
+Mai3 dong1xi
+Ni3 hai2 xu1yao4 bie2de dong1xi ma?
+Mao2bi3! … Ni3men you3 mao2bi3 ma?
+You3! Dang1ran2 you3! … Ni3 yao4 nei3 zhong3?
+Wo3 sui2bian4 mai3 ji3-zhi1 jiu4 xing2 le! Hui2guo2 yi3hou4 song4gei3 peng2you!
+Hao3! Mai3 san1-zhi1 ba!
+Zai4 lai2 ji3-zhi1!
+Hao3 de! … Hai2 yao4 bie2de ma?
+Xiao3ren2shu1! You3-mei2you xiao3ren2shu1?
+You3! Ni3 kan4! Zhei4 shi Sun1 Wu4kong1 de gu4shi! Zhen1 you3 yi4si!
+Hao3! Mai3 liang3-benr3!
+Ni3 bu2 yao4 mai3-dianr3 yi2-liao4 ma?
+Bu4! Yi1liao4, hai2shi zai4 Shang4hai3 mai3 ba!
+A4! Dui4 le! Mai3 dianr3 Qing1liang2-you2!
+А! Точно! Купим-ка немного Мази свежести = Qing1liang2-you2 shi shen2me?
+Yi4-zhong3 yao4! Zhi4 tou2tong4 de! Fei1chang2 you3xiao4!
+Hao3 ba! Jiu4 zhe4yang4! Zai4 mai3-dianr3 Qing1liang2-you2 jiu4 zou3!

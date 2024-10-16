@@ -1,0 +1,31 @@
+买东西
+这猪肉多少钱？
+八块钱一斤！
+好！来一斤！
+还要别的吗？
+有没有香肠？
+有！您看！特别好吃！
+六块五一斤！
+好！来半斤！
+还要什么？
+不要别的了！一共多少钱？
+一共十一块两毛五(分)！
+这是二十块！
+找您八块七毛五(分)！
+好！谢谢你！明天见！
+你忘了？明天关门儿！
+
+Mai3 dong1xi
+Zhei4 zhu1-rou4 duo1shao3 qian2?
+Hao3! Lai2 yi4 jin1!
+Hai2 yao4 bie2de ma?
+You3-mei2you3 xiang1chang3?
+You3! Nin2 kan4! Te4bie2 hao3chi1!
+Hao3! Lai2 ban4 jin1!
+Hai2 yao4 shen2me?
+Bu2 yao4 bie2 le! Yi2gong4 duo1shao3 qian2?
+Yi2gong4 shi2yi1 kuai4 liang3 mao2 wu3 （fen1）!
+Zhei4 shi er4shi2 kuai4!
+Zhao3 nin2 ba1kuai4 qi1 mao2 wu3（fen1）!
+Hao3! Xie4xie ni3! Ming2tian1 jian4!
+Ni3 wang4 le? Ming2tian1 guan1 menr2!
