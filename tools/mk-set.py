@@ -22,6 +22,7 @@ my_set = sorted( set(list(string)) )
 
 for i in my_set :
 	# use end=' ' if you need spaces between chars
+	# or end='\n' if you need 1 char on line
 	print(i, end='')
 
 print()
