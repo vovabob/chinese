@@ -1,0 +1,3 @@
+# '--attributes-only' : don't copy the file data, just the attributes
+
+cp --attributes-only dir1/*.txt /dir2/

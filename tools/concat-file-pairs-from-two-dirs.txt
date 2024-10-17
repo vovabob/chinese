@@ -1,0 +1,12 @@
+# https://unix.stackexchange.com/questions/465364/how-to-concatenate-only-identical-file-names-within-two-folders-to-one-file
+#
+# in parameter expansion the '#' removes the shortest match from the start of the string
+# the '##' would remove the longest match from the start (but in our case it works the same).
+# this technique is used when we need to extract the "basename" or part of a path.
+
+for FILE in dir1/* ; do
+    FILE2=dir2/${FILE#*/}
+    if [ -f $FILE2 ] ; then
+        cat $FILE $FILE2 > dir3/${FILE#*/}
+    fi
+done
